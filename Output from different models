@@ -1,0 +1,25 @@
+Model Outputs
+
+
+
+1. DecisionTreeRegressor
+    Score : [3.80195713 5.56888131 5.42811111 3.92316448 4.33076206 3.45879314
+     7.27930285 3.89714639 3.67389439 4.36147911]
+    Mean : 4.57234919723015
+    Standard Deviation : 1.12578439388527
+
+
+2. LinearRegression
+    Score : [4.20082634 4.26491004 5.09603532 3.92909867 5.35343337 4.383078
+     7.46923146 5.49018788 4.15344093 6.07183884]
+    Mean : 5.041208085687012
+    Standard Deviation : 1.050071616300406
+
+
+3. RandomForestRegressor    -     RMSE is 2.9 for TEST DATA.
+    Score : [2.88474822 2.94378553 4.45751476 2.93665493 3.52628957 2.64253508
+     4.66136969 3.40061513 2.96842497 3.29684274]
+    Mean : 3.3718780626735194
+    Standard Deviation : 0.6462498096693394
+    
+    Therefore, RandomForestRegressor is the best model for us yet.
